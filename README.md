@@ -19,16 +19,16 @@ This is a simple calculator project built using Java and Maven, following the Te
 
 # Installation
 Clone the repo :
-git clone https://github.com/your-username/calculator.git
-cd calculator
+> git clone https://github.com/sidon59/Calculator_Proj.git
+> cd Calculator_Proj
 
 Set up the env:
-mvn clean install
+> mvn clean install
 
 # Usage
 
 Run the program:
-mvn compile exec:java
+> mvn compile exec:java
 
 Run the unit test:
-mvn test
+> mvn test
